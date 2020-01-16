@@ -19,7 +19,7 @@ Software Product Line, Feature Selection, Multi-Objective Optimisation, Evolutio
 Lero@UCD, School of Computer Science, University College Dublin, Dublin 4, Ireland
 *takfarinas.saber@ucdconnect.ie*
 
-**David Brevet:**  Laboratoire d’Informatique, de Mod´elisation et d’Optimisation des Système, Clermont-Ferrand, France
+**David Brevet:**  Laboratoire d’Informatique, de Modélisation et d’Optimisation des Système, Clermont-Ferrand, France
 *david.brevet@uca.fr*
 
 **Goetz Botterweck:** Lero@UL, University of Limerick, Ireland 
